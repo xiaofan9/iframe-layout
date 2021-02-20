@@ -1,0 +1,5 @@
+{
+  "ajaxPath": "/test",
+  "websitePath": "/web-test",
+  "env": "test"
+}

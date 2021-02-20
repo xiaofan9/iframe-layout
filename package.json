@@ -1,0 +1,35 @@
+{
+  "name": "iframe-layout",
+  "version": "1.0.1",
+  "author": {
+    "name": "sifan",
+    "email": "71862552@qq.com"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "test:unit": "vue-cli-service test:unit"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "element-ui": "^2.12.0",
+    "js-cookie": "^2.2.1",
+    "nprogress": "^0.2.0",
+    "vue": "^2.6.10",
+    "vue-router": "3.0.6",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.0.5",
+    "@vue/cli-plugin-eslint": "^4.0.5",
+    "@vue/cli-service": "^4.0.5",
+    "babel-eslint": "^10.0.3",
+    "core-js": "^3.4.1",
+    "eslint": "^6.6.0",
+    "eslint-plugin-vue": "^6.0.1",
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
